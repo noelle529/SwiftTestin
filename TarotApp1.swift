@@ -1,4 +1,5 @@
 //Major arcana tarot app
+// Switch challenge
 
 var Name: String = "Noelle"
 var Question: String = " How I am doing generally?🤔"
