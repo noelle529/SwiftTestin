@@ -1,3 +1,4 @@
+//Loops project from Codecademy
 // Add your code below:
 var counter: Int = 1
 for counter in 1...100 {
