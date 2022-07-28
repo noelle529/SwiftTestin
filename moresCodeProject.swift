@@ -1,3 +1,5 @@
+//Dictionaries project from Codecademy
+
 var englishText = "noelle is a secret message"
 var secretMessage = "-. --- . .-.. .-.. . / .. ... / .- / ... . -.-. .-. . - / -- . ... ... .- --. ."
 var letterToMorse : [String:String] = [
