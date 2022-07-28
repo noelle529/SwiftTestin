@@ -1,3 +1,4 @@
+//Array & sets project from Codecademy
 
 var spanish101: Set = ["Angela", "Declan", "Aldany", "Alex", "Sonny", "Alif", "Skyla"]
 var german101: Set = ["Angela", "Alex", "Declan", "Kenny", "Cynara", "Adam"]
