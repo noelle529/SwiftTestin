@@ -1,3 +1,5 @@
+// Variable project from Codecademy
+
 //currency converter: make it your own
 //other countrirs converted to use
 var pesos: Double = 223.0
